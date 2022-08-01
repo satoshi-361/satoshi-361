@@ -11,7 +11,7 @@ I’m a DevOps engineer who accidentally ended up in application & user-experien
 
 ## My Main Skill
 ### 📕 Laravel, Symfony, Vue, React, TypeScript
-[![Ultimate Guide to Building APIs & SPAs](https://github.com/satoshi-361/satoshi-361/img/book.png)](https://serversideup.net/ultimate-guide-to-building-apis-and-spas-with-laravel-and-vuejs/)
+[![Ultimate Guide to Building APIs & SPAs](https://raw.githubusercontent.com/satoshi-361/satoshi-361/master/img/book.png)]
 
 I have lots of team work experience and mainly participated Laravel, Vue, and TypeScript projects.
 
@@ -20,7 +20,6 @@ We were able to figure out a way to:
 * Create a [Vue.js](https://vuejs.org/) web front-end
 * Generate iOS and Android Apps with [CapacitorJS](https://capacitorjs.com/)
 * **All from the same codebase 😱**
-#### [Get the book →](https://serversideup.net/ultimate-guide-to-building-apis-and-spas-with-laravel-and-vuejs/)
 
 ## I do a lot more than sit at a keyboard all day...
 
