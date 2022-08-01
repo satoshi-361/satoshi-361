@@ -5,13 +5,14 @@ I’m a DevOps engineer who accidentally ended up in application & user-experien
 
 ## What I am working on now
 <p>
-    In 2014, I started a software development. After that, I have developed so many PHP, Javascript, C#, python, ruby projects using Laravel, Symfony, CakePHP, Vue, React, TypeScript and other frameworks.
+    In 2014, I started a software development. <br />
+    After that, I have developed so many PHP, Javascript, C#, python, ruby projects using Laravel, Symfony, CakePHP, Vue, React, TypeScript and other frameworks. <br />
     Nowadays I am involved in some Blockchain platform projects.
 </p>
 
 ## My Main Skill
 ### 📕 Laravel, Symfony, Vue, React, TypeScript
-[![Ultimate Guide to Building APIs & SPAs](https://raw.githubusercontent.com/satoshi-361/satoshi-361/master/img/book.png)]
+![Ultimate Guide to Building APIs & SPAs](https://raw.githubusercontent.com/satoshi-361/satoshi-361/master/img/book.png)
 
 I have lots of team work experience and mainly participated Laravel, Vue, and TypeScript projects.
 
